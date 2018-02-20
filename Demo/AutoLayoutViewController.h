@@ -1,0 +1,13 @@
+//
+//  AutoLayoutViewController.h
+//  Demo
+//
+//  Created by Sam Meech-Ward on 2018-02-20.
+//  Copyright © 2018 lighthouse-labs. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AutoLayoutViewController : UIViewController
+
+@end

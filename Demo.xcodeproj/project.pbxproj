@@ -13,6 +13,7 @@
 		22E869BD203C8DAE00651A02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22E869BC203C8DAE00651A02 /* Assets.xcassets */; };
 		22E869C0203C8DAE00651A02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22E869BE203C8DAE00651A02 /* LaunchScreen.storyboard */; };
 		22E869C3203C8DAE00651A02 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22E869C2203C8DAE00651A02 /* main.m */; };
+		22E869CB203CA1AC00651A02 /* AutoLayoutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22E869CA203CA1AC00651A02 /* AutoLayoutViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		22E869BF203C8DAE00651A02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22E869C1203C8DAE00651A02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22E869C2203C8DAE00651A02 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		22E869C9203CA1AC00651A02 /* AutoLayoutViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AutoLayoutViewController.h; sourceTree = "<group>"; };
+		22E869CA203CA1AC00651A02 /* AutoLayoutViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutoLayoutViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				22E869B4203C8DAE00651A02 /* AppDelegate.m */,
 				22E869B6203C8DAE00651A02 /* ViewController.h */,
 				22E869B7203C8DAE00651A02 /* ViewController.m */,
+				22E869C9203CA1AC00651A02 /* AutoLayoutViewController.h */,
+				22E869CA203CA1AC00651A02 /* AutoLayoutViewController.m */,
 				22E869B9203C8DAE00651A02 /* Main.storyboard */,
 				22E869BC203C8DAE00651A02 /* Assets.xcassets */,
 				22E869BE203C8DAE00651A02 /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 				22E869B8203C8DAE00651A02 /* ViewController.m in Sources */,
 				22E869C3203C8DAE00651A02 /* main.m in Sources */,
 				22E869B5203C8DAE00651A02 /* AppDelegate.m in Sources */,
+				22E869CB203CA1AC00651A02 /* AutoLayoutViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
