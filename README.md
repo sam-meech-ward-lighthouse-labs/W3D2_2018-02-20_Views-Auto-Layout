@@ -75,3 +75,9 @@ NSLayoutConstraint * topConstraint =
 ```
 topConstraint.active = YES;
 ```
+
+## Useful links
+
+* [Understanding Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/)
+* [frame vs bounds](https://stackoverflow.com/questions/1210047/cocoa-whats-the-difference-between-the-frame-and-the-bounds)
+* [Animatable Properties](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreAnimation_guide/AnimatableProperties/AnimatableProperties.html)
